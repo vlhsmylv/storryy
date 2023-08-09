@@ -6,7 +6,7 @@
 
 ###### How to use?
 
-1. Go to your terminal and write ```npm install storryy``` ✅
+1. Go to your terminal and write ```npm install --------``` ✅
 
 2. 👾 Then start to use localStorage functions in React, Vanilla, or any JS framework you want!
 
