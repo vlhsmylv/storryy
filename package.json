@@ -1,0 +1,12 @@
+{
+  "name": "@vlhsmylv/storryy",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "publishConfig": {
+    "@vlhsmylv:registry": "https://npm.pkg.github.com/"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
