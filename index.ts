@@ -1,3 +1,4 @@
+// Storryy Object
 export const storryy = {
   get: async (fieldName: string) => {
     const field: string | null = localStorage.getItem(fieldName)
